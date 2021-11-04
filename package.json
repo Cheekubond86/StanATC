@@ -1,0 +1,17 @@
+{
+  "name": "stan",
+  "version": "1.0.0",
+  "description": "Automation Testing",
+  "main": "index.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaitra",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.16.2"
+  }
+
+}
